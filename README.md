@@ -3,6 +3,10 @@
 M.S. Computer Science graduate and Software Engineer building
 AI-assisted applications, cloud-native systems, and workflow automation.
 
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/abhishek-c-527007114/) · [X / Twitter](https://x.com/Sagi14_) · [GitHub](https://github.com/AKChalise)
+
 ### What I work on
 
 - 🤖 AI agents & workflow automation
